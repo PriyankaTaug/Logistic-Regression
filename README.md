@@ -17,8 +17,7 @@ The dataset consists of labeled text samples:
 ## 🔧 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/sentiment-classifier.git
-cd sentiment-classifier
+git clone https://github.com/PriyankaTaug/Logistic-Regression.git
 pip install -r requirements.txt
 ```
 
