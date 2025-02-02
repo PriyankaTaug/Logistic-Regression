@@ -73,3 +73,15 @@ score = accuracy_score(y_pred_lr, y_test)
 score
 
 print(classification_report(y_test, y_pred_lr, zero_division=0))
+
+# Naive Bayes
+
+from sklearn.naive_bayes import MultinomialNB
+
+nb = MultinomialNB().fit(X_train, y_train)
+
+y_pred_nb = nb.predict(X_test)
+
+accuracy_score(y_pred_nb, y_test)
+
+print(classification_report(y_test, y_pred_nb, zero_division=0))
