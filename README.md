@@ -61,12 +61,10 @@ Accuracy: 0.75
 ## 👨‍💻 Contributing
 Feel free to fork this repository and submit a pull request! 🚀
 
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ---
 
 🔗 **Connect with Me**  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 Email: your-email@example.com
+💼 https://www.linkedin.com/in/priyanka-t-960b53266/
+📧 Email: priyankataug98@gmail.com
 
